@@ -4,5 +4,8 @@ Data: A public dataset or simulated dot plot from a flow cytomatry experiment
 
 Research link: idetifying specefic immune cell populations for disease diagnosis
 
-<img width="1231" height="515" alt="image" src="https://github.com/user-attachments/assets/acc9e5cf-d990-443c-941f-641f98f3cdbc" />
-<img width="1054" height="629" alt="image" src="https://github.com/user-attachments/assets/8769ddb4-c6bd-42b9-954a-a5616173e12e" />
+<img width="1234" height="490" alt="image" src="https://github.com/user-attachments/assets/29e3ba3a-6dfc-409e-8800-9151dc41afba" />
+<img width="1215" height="639" alt="image" src="https://github.com/user-attachments/assets/923b1106-c80a-4148-9b27-95dfa666880b" />
+<img width="1219" height="671" alt="image" src="https://github.com/user-attachments/assets/8dd7af21-c615-45f0-9015-fad12e721aa7" />
+
+
