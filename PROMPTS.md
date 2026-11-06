@@ -1,4 +1,4 @@
-1.I am building an app for biochemistry project. Here find the app idea, data and research link in README. I plan to do with Python. First, suggest a project structure for this , including data generation, gating and threshold logic, visualization, app building and so on.
+1.I am building an app for biochemistry project. Here find the app idea, data and research link in README. I plan to do with Python. First, suggest a project structure for this , including data generation, gating logic, visualization, app building and so on.
 
 2，I will stricly follow the suggested workflow.  So the first step is :Start with simulated data. Generate a reproducible dataset with named channels and several overlapping synthetic populations. Include options for event count, noise, and population proportions. Label it clearly as simulated. Give the complete , runnable Python code for this step and do test run.
 
